@@ -1,0 +1,39 @@
+Partlist
+
+Exported from dual-dac-w-32-ch-sh-DAC-BOARD.sch at 01.03.2015 13:25:53
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device     Package  Library  Sheet
+
+
+C34      0.1uF          C-EUC0603  C0603    resistor 1
+C39      0.1uF          C-EUC0603  C0603    resistor 1
+C42      0.1uF          C-EUC0603  C0603    resistor 1
+C43      0.1uF          C-EUC0603  C0603    resistor 1
+C46      0.1uF          C-EUC0603  C0603    resistor 1
+C47      0.1uF          C-EUC0603  C0603    resistor 1
+
+C35      20pF           C-EUC0603  C0603    resistor 1
+C36      20pF           C-EUC0603  C0603    resistor 1
+C37      20pF           C-EUC0603  C0603    resistor 1
+C38      20pF           C-EUC0603  C0603    resistor 1
+
+C33      1uF            C-EUC0603  C0603    resistor 1
+C40      1uF            C-EUC0603  C0603    resistor 1
+C41      1uF            C-EUC0603  C0603    resistor 1
+C44      1uF            C-EUC0603  C0603    resistor 1
+C45      1uF            C-EUC0603  C0603    resistor 1
+
+IC11     AD5547         AD5547     TSSOP38  joakim   1
+
+IC12     TL072P         TL072P     DIL08    linear   1
+IC13     TL072P         TL072P     DIL08    linear   1
+IO-AN                   MA03-2     MA03-2   con-lstb 1
+IO-DIG                  MA03-2     MA03-2   con-lstb 1
+MSB                     JP2E       JP2      jumper   1
+SV2                     MA18-2     MA18-2   con-lstb 1
+U$1      ADR02          ADR02      SO08     joakim   1
+WR                      JP2E       JP2      jumper   1

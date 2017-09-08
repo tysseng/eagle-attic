@@ -1,0 +1,33 @@
+Partlist
+
+Exported from Dual linear VCA chip.sch at 25.02.2014 19:18:17
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device         Package   Library        Sheet
+
+C1       47p            C-EUC0805      C0805     resistor       1
+C2       47p            C-EUC0805      C0805     resistor       1
+C3       100n           C-EUC0805      C0805     resistor       1
+C4       100n           C-EUC0805      C0805     resistor       1
+D1                      DIODE-SOD80C   SOD80C    diode          1
+D2                      DIODE-SOD80C   SOD80C    diode          1
+IC1      LM13700M       LM13700M       SO16      synthdiy       1
+IC2      TL072D         TL072D         SO08      linear         1
+IC3      TL072D         TL072D         SO08      linear         1
+JP1                     JP1E           JP1       jumper         1
+Q1       MMBT3906LT1SMD MMBT3906LT1SMD SOT23-BEC transistor-pnp 1
+Q2       MMBT3906LT1SMD MMBT3906LT1SMD SOT23-BEC transistor-pnp 1
+R1       15k            R-EU_R0805     R0805     resistor       1
+R2       12k            R-EU_R0805     R0805     resistor       1
+R3       15k            R-EU_R0805     R0805     resistor       1
+R4       12k            R-EU_R0805     R0805     resistor       1
+R5       10k            R-EU_R0805     R0805     resistor       1
+R6       10k            R-EU_R0805     R0805     resistor       1
+R7       22k            R-EU_R0805     R0805     resistor       1
+R8       22k            R-EU_R0805     R0805     resistor       1
+R9       47k            R-EU_R0805     R0805     resistor       1
+R10      47k            R-EU_R0805     R0805     resistor       1
+SV1                     MA13-1         MA13-1    con-lstb       1
